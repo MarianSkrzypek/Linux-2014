@@ -1,0 +1,4 @@
+  PID TTY          TIME CMD
+ 3110 tty1     00:00:00 bash
+ 4975 tty1     00:00:00 ps
+ 4976 tty1     00:00:00 sort
